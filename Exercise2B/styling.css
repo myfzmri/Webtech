@@ -1,0 +1,135 @@
+    
+    body{
+        background-color: #B1D4E0;
+    }
+
+    header{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 35px ;
+        text-align: center;
+        color:#051D40;
+    }
+
+    ul{
+        text-align: center;
+        font-size: 22px;
+        padding: 10px;
+        background-color: #051D40 ;
+        word-spacing: 200px; 
+        position: sticky;
+        top: 0;
+    }
+
+
+    div.abu{
+        float: center;
+        padding: 10px;
+        background-color: #051D40;
+        text-align: center;
+        font-size: 17px;
+        color: #EEF8EB;
+        width: 65%;
+        box-sizing: border-box;
+        margin: 0 auto;
+    }
+
+    div{
+        float: center;
+        padding: 20px;
+        text-align: center;
+        font-size: 30px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: #051D40;
+    }
+
+    section{
+        float: center;
+        padding: 10px;
+        background-color: #051D40;
+        text-align: center;
+        color: #EEF8EB;
+        width: 65%;
+        box-sizing: border-box;
+        margin: 0 auto;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    tr,td,th{
+        float: center;
+        text-align: center;
+        border: 2px solid  #EEF8EB;; 
+        border-collapse: collapse;
+    
+    }
+
+    article{
+        float: center;
+        padding: 20px;
+        background-color: #051D40;
+        text-align: center;
+        color: #EEF8EB;
+        width: 65%;
+        box-sizing: border-box;
+        margin: 0 auto;
+    }
+
+    a{
+        color: #EEF8EB;
+        font-weight: bold;
+        text-decoration: none;
+        position: sticky;
+    }
+
+    a:hover{
+        background-color: lightblue;
+        color: #EEF8EB;
+        border-radius: 25px;
+        padding: 10px;
+    }
+
+    .center{
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    html{
+        scroll-behavior: smooth;
+    }
+
+    footer{
+        text-align: center;
+        font-size: 25px;
+        font-weight: bold;
+    }
+
+    .p5{
+        width: 400px;
+        padding: 25px;
+        background-color: #051D40;
+    }
+
+    .linux-details {
+        display: flex;
+        align-items: center;
+      }
+      
+      .image-box {
+        flex: 1;
+        margin-right: 30px;
+        margin-left: 50px;
+      }
+      
+      .text {
+        flex: 1;
+        font-size: 28px;
+        border: 1px solid black;
+        margin-left: 90px;
+        background-color: #051D40;
+        color: #EEF8EB;
+        padding: 30px;
+        margin-right: 50px;
+        width: 30%;
+        text-align: left;
+      }
+      
